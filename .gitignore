@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Local environment
+.venv/
+venv/
+env/
+.env
+
+# Django local data and generated audio
+db.sqlite3
+audio.mp3
+speak.mp3
+
+# Windows
+Thumbs.db
+Desktop.ini
